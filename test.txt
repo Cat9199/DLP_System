@@ -1,0 +1,16 @@
+This is a sample file containing various information.
+
+Customer Details:
+Name: John Doe
+Email: john.doe@example.com
+Credit Card: 1234-5678-9101-1121
+Address: 123 Elm Street, Some City, Some Country
+
+Order Details:
+Order ID: 001
+Product: Sample Product
+Credit Card: 2345-6789-0123-4567
+
+Additional Notes:
+Make sure to encrypt all credit card numbers for security purposes.
+``
